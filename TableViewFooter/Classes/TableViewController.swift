@@ -20,7 +20,7 @@ final class TableViewController: UIViewController {
     private let swiftConferences = [
         Conference(name: "NSSpain", location: "Spain"),
         Conference(name: "PragmaConf", location: "Italy"),
-        Conference(name: "Hacking with Swift Live", location: "London"),
+        Conference(name: "Hacking with Swift Live", location: "United Kingdom"),
         Conference(name: "UIKonf", location: "Germany"),
         Conference(name: "AppBuilders", location: "Switzerland"),
         Conference(name: "Swift Aveiro", location: "Portugal"),
